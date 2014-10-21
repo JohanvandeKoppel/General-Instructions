@@ -1,6 +1,4 @@
-This zip file contains the GPU code for running the mussel bed pattern formation model published in this paper:
-
-Van de Koppel, J., Rietkerk, M., Dankers, M. & Herman, P.M.J. 2005 Scale-dependent feedback and regular spatial patterns in young mussel beds. The American Naturalist 165:E66-E77.
+This repository contains contains GPU code that runs a number of self-organization models
 
 Running the code requires an Nvidia graphics card and the CUDA package installed. The code has been build and tested using a Macbook pro 2012 edition. I run it using the cmake package (www.cmake.org) that handles the generation of a suitable makefile.
 
